@@ -13,8 +13,8 @@ Estatuto e o regimento interno
 
 
 No presente Estatuto, a menos que o contexto imponha interpretação diferente:
-1. Nota:
-	1. “diretores” significam diretores da sociedade no momento;
+1.Nota:
+ 1. “diretores” significam diretores da sociedade no momento;
 	2. “Lei de Sociedade” significa o ato das Leis Municipais/Estaduais/Federais em vigor;
 	3. “endereco registrado” de um membro significa, endereco fisico do membro cadastrado como membro da sociedade;
     4. "Consenso basico" significa o processo de consenso descrito pela "[Internet Engineering Task Force in RFC 2418.](http://www.ietf.org/rfc/rfc2418.txt)"

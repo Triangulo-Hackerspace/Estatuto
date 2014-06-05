@@ -20,3 +20,9 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
     4. "Consenso basico" significa o processo de consenso descrito pela "[Internet Engineering Task Force in RFC 2418.](http://www.ietf.org/rfc/rfc2418.txt)"
 	As definições da "Lei de Sociedade", em vigor aplicam-se a este Estatuto.
 2.	As palavras no singular incluem o plural e vice-versa, e as palavras que importam uma pessoa do sexo masculino incluem uma pessoa do sexo feminino.
+
+### Part 2 — Associacao
+1. Os associados da sociedade são os candidatos a incorporação da sociedade, e as pessoas que, posteriormente, se tornarem associadas, de acordo com este estatuto e, em qualquer caso, não deixaram de ser associados.
+2. Uma pessoa pode aplicar-se para a adesão na sociedade atraves dos diretores e a aceitação por parte dos diretores o torna um membro.
+3. Cada membro deve defender o regimento interno e cumprir este Estatuto.
+

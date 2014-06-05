@@ -59,8 +59,20 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 2. Assuntos, outros alem da eleicao de uma cadeira de diretor e/ou adiantamento/cancelamento da reuniao, nao deve ser realizada em assembleia geral no 
 3. Se em qualquer momento durante uma assembleia geral, o quórum presente deixar de existir, o assunto em progresso deve ser suspenso ate que o quórum esteja presente ou ate que a assembleia seja resumida ou terminada.
 4. O quórum são 3 membros presentes ou qualquer numero maior que os associados determinem em uma assembleia geral.
-Se dentro de 30 minutos dentro do horario determinado para a assembleia geral, o quorum nao estiver presente, a assembleia, caso determinado pelos presentes, devera ser terminada, mas em qualquer outro caso, deve ser adiada para o mesmo dia na proxima semana, no mesmo horario e local e caso a reuniao retomada nao tiver quórum dentro dos 30 minutos do horario apontado, os membros presentes constituirao o quórum.
-
-De acordo com o regimento interno, um diretor deve presidir como responsavel de uma assembleia geral.
-
+5. Se dentro de 30 minutos dentro do horario determinado para a assembleia geral, o quorum nao estiver presente, a assembleia, caso determinado pelos presentes, devera ser terminada, mas em qualquer outro caso, deve ser adiada para o mesmo dia na proxima semana, no mesmo horario e local e caso a reuniao retomada nao tiver quórum dentro dos 30 minutos do horario apontado, os membros presentes constituirao o quórum.
+6. De acordo com o regimento interno, um diretor deve presidir como responsavel de uma assembleia geral.
+7. Se em uma assembleia geral
+	1. não existir um diretor prsente dentro dos 15 minutos do horario estipulado para a reunião, ou 
+    2. os diretores presentes nao estiverem dispostos a presidir, os membros presentes devem escolher um dos membros para presidir. 
+8. Uma assembleia geral pode ser pausada de tempo em tempo ou local a local, mas nenhum assunto fora da ementa da reuniao adiada, podera ser tratado na continuacao da mesma.
+	1. Quando uma reuniao é pausada for 15 ou mais dias, um aviso da reuniao interrompida deve ser emitido, como no caso da reuniao original.
+	2. Salvo disposto no presente regimento, não é necessário dar aviso de um adiamento ou do assunto a ser realizado em assembléia geral encerrada. 
+9. A resolução de uma proposta que está sendo discutida em uma assembleia não precisa necessáriamente ser tomada nesta mesma assembleia, sendo que esta resolução pode se decidida pelo presidente se deve ser resolvida nesta ou em outra reunião.
+	1. Em caso de empate de votos, o presidente da assembleia nao tem veto ou direito a segundo voto alem do que ele tem direito como associado, e a resolucao prospota nao é efetivada.
+10. O associado que esteja presente em uma reuniao de associados ou assembleia e tem comparecer uma 'boa conduta' nos ultimos 3 meses tem direito de voto 
+	1. A votação é feita levantando a mao.
+	2. Votar para outro não é permitido.
+	3. Associados devem, em boa fé, deicidir por conceso qualquer questao que seja levantada, incluindo resolucoes.
+	4. Se nao para determinado assunto nao houve consenso, o assunto sera decidido por 80% dos votos.
+    
 

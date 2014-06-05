@@ -75,4 +75,5 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 	3. Associados devem, em boa fé, deicidir por conceso qualquer questao que seja levantada, incluindo resolucoes.
 	4. Se nao para determinado assunto nao houve consenso, o assunto sera decidido por 80% dos votos.
     
+### Parte 5 — Diretores e oficiais
 

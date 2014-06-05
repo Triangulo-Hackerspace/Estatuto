@@ -71,7 +71,7 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 	1. Em caso de empate de votos, o presidente da assembleia nao tem veto ou direito a segundo voto alem do que ele tem direito como associado, e a resolucao prospota nao é efetivada.
 10. O associado que esteja presente em uma reuniao de associados ou assembleia e tem comparecer uma 'boa conduta' nos ultimos 3 meses tem direito de voto 
 	1. A votação é feita levantando a mao.
-	2. Votar para outro não é permitido.
+	2. Votar para outro ou encoberto não é permitido.
 	3. Associados devem, em boa fé, deicidir por conceso qualquer questao que seja levantada, incluindo resolucoes.
 	4. Se nao para determinado assunto nao houve consenso, o assunto sera decidido por 80% dos votos.
     

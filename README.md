@@ -37,7 +37,7 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 6. Todos os associados estao em boa conduta, exceto os membros que falharem em pagar a contribuicao mensal, ou qualquer outra subscricao ou debito com a sociedade, o membro permanece em ma conduta enquanto o debito estiver em aberto.
 
 ### Parte 3 — Assembleia dos Associados
-1. Reunioes Gerais da sociedade devem ser feitas dentro do horario e local, de acordo com as Leis de Sociedade, sendo decidido pela diretoria.
+1. Assembleias Gerais da sociedade devem ser feitas dentro do horario e local, de acordo com as Leis de Sociedade, sendo decidido pela diretoria.
 2. Toda assembleia geral, diferentemente da assembleia anual, é uma assembleia extraordinaria.
 3. Os Diretores podem, quando acharem necessarios, marcar uma assembleia geral.
 	1. A chamada para uma assembleia geral, deve especificar o local, data e hora da mesma, em caso de reunioes especials, especificar o motivo da mesma.

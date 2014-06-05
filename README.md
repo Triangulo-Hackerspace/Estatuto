@@ -44,4 +44,23 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 	2. A omissicao acidental ou a falta de aviso de recebimento da notificacao de assembleia, para qualquer associado destinado a receber a mesma, nao invalida o procedimento da mesma. 
 4. A primeira Assembleia Anual da sociedade deve existir dentro do periodo maximo de 15 meses apos a data da incorporacao do Estatuto e apos a mesma, as consecutivas, deverao acontecer dentro do calendario anual e nao podem passar mais que 15 meses da existencia da ultima Assembleia Anual.
 
+### Parte 4 — Procedimentos em uma Assembleia Geral
+1. Assuntos especiais sao
+	1. todos os assuntos em uma assembleia geral extraordinaria, exceto a adocao de regras de conduta e ordem e 
+	2.	todos assuntos conduzidos em uma assembleia anual geral, exceto os seguintes:
+		1. a adocao de regas de conduta e ordem;
+		2. as consideracoes sobre demonstrações financeiras;
+		3. o relatorio dos diretores 
+        the report of the directors;
+		4. o relatorio de auditoria, caso exista;
+		5. a eleicao da diretoria;
+		6. o apontamento de um auditor, caso necessario;
+		7. outros assuntos, que dentro do regimento, deve ser conduzido dentro de uma assembleia anual ou assuntos trazidos dentro de consideracoes em relatorio da diretoria, emitido dentro da assembleia.
+2. Assuntos, outros alem da eleicao de uma cadeira de diretor e/ou adiantamento/cancelamento da reuniao, nao deve ser realizada em assembleia geral no 
+3. Se em qualquer momento durante uma assembleia geral, o quórum presente deixar de existir, o assunto em progresso deve ser suspenso ate que o quórum esteja presente ou ate que a assembleia seja resumida ou terminada.
+4. O quórum são 3 membros presentes ou qualquer numero maior que os associados determinem em uma assembleia geral.
+Se dentro de 30 minutos dentro do horario determinado para a assembleia geral, o quorum nao estiver presente, a assembleia, caso determinado pelos presentes, devera ser terminada, mas em qualquer outro caso, deve ser adiada para o mesmo dia na proxima semana, no mesmo horario e local e caso a reuniao retomada nao tiver quórum dentro dos 30 minutos do horario apontado, os membros presentes constituirao o quórum.
+
+De acordo com o regimento interno, um diretor deve presidir como responsavel de uma assembleia geral.
+
 

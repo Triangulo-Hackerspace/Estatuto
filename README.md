@@ -107,3 +107,40 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 6. Em uma reuniao de diretores ou commite, o presidente presente deve em boa fe decidir pelo consenso das questoes que sugirem
 	1. Caso o consenso nao seja atingido, a questao sera decidida via 80% dos votos
 
+### Parte 7 - Deveres dos Oficiais
+1. O Secretario deve:
+	1. conduzir e cuidar da correspondencia da sociedade;
+	2. emitir avisos de assembleias/reunioes da sociedade e diretores;
+	3. manter as minutas de todas as assembleias/reunioes da sociedade e diretores;
+	4. ter custodia de todos os documentos da sociedade exceto os requiridos e mantidos pelo tesoureiro;
+	5. ter custodia do selo comum da sociedade;
+	6. manter a lista de membros
+2. O Tesoureiro deve:
+	1. Manter registros financeiros, manter o 'portal da transparencia' e 'colaboracoes' em dia.
+	2. Prover comprovantes de movimento do hackerspace, receita de membros e outros, quando requerido.
+3. Na ausencia do secretario em uma Assembleia/reuniao, os diretores ou membros presentes devem apontar um secretario para a mesma e o membro apontado deve enviar ao secretario a minuta da Assembleia/reuniao dentro de 48 horas apos o termino da mesma.
+
+###Parte 8 — Selo
+1. Os diretores podem providenciar um selo comum a sociedade e podem o destrui-lo e subistitui-lo por um novo.
+2. O selo comum pode ser utilizade apenas quando autorizado por uma resolucao dos diretores e apenas na presenca das pessoas especificadas nessa resolucao. Se nenhuma pessoa for especificada, na presenca de 2 ou mais diretores.
+
+###Parte 9 - Auditor
+1. Esta parte so se aplica, caso a sociedade requisite ou resolva ter um auditor
+2. O primeiro auditor devera ser apontado pela diretoria.
+3. A cada Assembleia Geral Anual a sociedade deve apontar um auditor ate que um auditor seja re-eleito ou seu sucessor seja eleito.
+4. O Auditor deve ser informado por escrito de seu compromisso ou cancelamento do mesmo.
+5. Um diretor ou membro da sociedade nao pode ser seu auditor.
+6. O auditor pode atender as Assembleias Gerais
+
+
+###Parte 10 - Notificacao aos associados
+1. Uma notificacao pode ser dada a um associado, seja pessoalmente ou por carta enviada ao endereco registrado.
+	1.Notificacao enviada por carta devera ter aviso de entrega.
+2. Notificacao de Assembleia geral deve ser dada a
+	1. Todos os associados na lista de associados, 
+	2. ao auditor, caso a Parte 9 aplique
+	3. Nenhuma outra pessoa deve receber a notificacao de Assembleia.
+
+###Parte 11 — Regimento interno
+1. Ao ser admitido como associado, cada membro tem como responsabilidade e a sociedade deve prover sem nenhum tipo de cobranca, uma copia da constituicao e regimento interno da sociedade.
+2. Este regimento interno nao pode ser alterado ou adicionado exceto por resolucoes especiais.

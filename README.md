@@ -74,7 +74,7 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 	2. Votar para outro ou encoberto não é permitido.
 	3. Associados devem, em boa fé, deicidir por conceso qualquer questao que seja levantada, incluindo resolucoes.
 	4. Se nao para determinado assunto nao houve consenso, o assunto sera decidido por 80% dos votos.
-    
+
 ### Parte 5 — Diretores e oficiais
 1. Os Diretores podem exercer todos os poderes e executar todos os atos e coisas que a sociedade possa executar ou fazer, desde que nao sejam fora do escopo do regimento interno ou estatuto, nao desrespeite leis, nao faca mal a imagem da sociedade. Podera de devera executar qualquer ato determinato em uma Assembleia Geral, mas em qualquer forma podera ir contra
 	1. Leis que afetam a sociedade,
@@ -93,4 +93,17 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 	1. Um ato ou procedimento feito pelos diretores, nao se torna invalido meramente por que o numero de diretores e inferior ao escrito nesse regimento.
 6. Os membros podem, atraves de uma resolucao especial, remover um diretor, antes da expiracao do seu mandato e pode eleger um sucessor para completar o tempo de mandato.
 7. Um diretor nao pode ser remunerado por fazer parte ou agir como diretor, mas um diretor deve ser reembolsado de todos os gastos enquanto o mesmo esteja em trabalho para assuntos da sociedade.
+
+### Parte 6 - Procedimentos da diretoria
+1. Os diretores podem encontrar para conduzir os negocios da sociedade em qualquer lugar que eles achem adequados.
+	1. Os diretores podem de tempo em tempo, setar um quorum necessario para conduzir os negocios da socieade a menos que o quorum seja a totalidade dos diretores no recinto.
+	2. Os diretores presentes devem escolher um dos diretores presentes para presidir a reuniao dos diretores.
+	3. Um diretor pode convocar a qualquer momento uma reuniao de diretores
+2. Os diretoes podem delegar, alguns mas nao todos, os poderes para um comite consistido por diretores e/ou membros.
+	1. O comite formado em exercicio dos poderes, deve estar em conformidade as regras impostas pelos diretores, deve reportar qualquer ato ou evento feito durante o exercicio dos poderes na proxima reuniao dos diretores apos o ato ou evento ter sido executado.
+3. O Comite deve elerger um membro do mesmo para presidir as suas reunioes, mas se um nao for eleito ou nao houver presidente em 30 minutos apos o horario estipulado para a reuniao, se caso houver um diretor presente que seja membro do comite, o mesmo deve escolher um entre eles para presidir a reuniao.
+4. Membros do Comite podem se reunir em local e horario que lhes convir.
+5. Um diretor que precisar se ausentar temporariamente de suas atividades, deve redigir uma carta  enderecada a sociedade com intuito de notificar sua ausencia aos membros. O mesmo podera retornar as suas atividades em qualquer momento futuro atraves de uma notificacao. Ambas as notificacoes devem ser lidas em Assembleia.
+6. Em uma reuniao de diretores ou commite, o presidente presente deve em boa fe decidir pelo consenso das questoes que sugirem
+	1. Caso o consenso nao seja atingido, a questao sera decidida via 80% dos votos
 

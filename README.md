@@ -76,4 +76,21 @@ No presente Estatuto, a menos que o contexto imponha interpretação diferente:
 	4. Se nao para determinado assunto nao houve consenso, o assunto sera decidido por 80% dos votos.
     
 ### Parte 5 — Diretores e oficiais
+1. Os Diretores podem exercer todos os poderes e executar todos os atos e coisas que a sociedade possa executar ou fazer, desde que nao sejam fora do escopo do regimento interno ou estatuto, nao desrespeite leis, nao faca mal a imagem da sociedade. Podera de devera executar qualquer ato determinato em uma Assembleia Geral, mas em qualquer forma podera ir contra
+	1. Leis que afetam a sociedade,
+	2. o regimento interno e
+	3. regras , desde que nao sejam incosistentes com o regimento interno e sejam elaboradas de tempos em tempos em Assembleias gerais.
+	4. Uma regra criada pela sociedade em uma Assembleia geral nao invalida um ato executado/feito pelos diretores que seria valida caso essa regra nao existisse.
+2. O Secretario, tesoureiro e tres ou mais pessoas, sao os diretores da sociedade.
+	1. O numero de diretores devem ser no minimo 5 e nao mais que 9.
+3. Os diretores devem sair das suas posicoes a cada Assembleia Geral Anual quando seus sucessores sao eleitos.
+	1. Eleicoes separadas devem ser feitas para cada posicao a ser ocupada.
+	2. Uma eleição pode ser por aclamação, caso contrário, deve ser por voto.
+	3. Se um sucessor nao for eleito, a pessoa elegida ou apontada anteriormente continua com o cargo.
+4. Os diretores podem de tempos em tempos, apontar membros como diretores para ocupar cargos desocupados.
+	1. O diretor apontado, preside o cargo ate a proxima Assembleia Geral Anual, mas pode ser elegivel para re-eleicao.
+5. Caso um diretor desista do cargo ou deixa de mante-lo, os diretores restantes devem apontar um membro para o cargo.
+	1. Um ato ou procedimento feito pelos diretores, nao se torna invalido meramente por que o numero de diretores e inferior ao escrito nesse regimento.
+6. Os membros podem, atraves de uma resolucao especial, remover um diretor, antes da expiracao do seu mandato e pode eleger um sucessor para completar o tempo de mandato.
+7. Um diretor nao pode ser remunerado por fazer parte ou agir como diretor, mas um diretor deve ser reembolsado de todos os gastos enquanto o mesmo esteja em trabalho para assuntos da sociedade.
 

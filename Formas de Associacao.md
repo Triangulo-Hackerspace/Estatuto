@@ -25,7 +25,7 @@ Pessoa contribui mensalmente e recebe titulo de associado, tal titulo da direito
  1. Apenas para Associado que
      1. for associado por no minimo 6 meses
      1. estiver com "boa conduta" nos últimos 3 meses consecutivos e com as Contribuições mensais em dia;
-     1. receber votação positiva Unanime dos Associados presentes em Assembleia. (O mesmo nao estará presente na Assembleia para que nenhum associado se sinta intimidado pela sua presença).
+     1. receber votação positiva unanime dos associados presentes em assembleia. (O mesmo nao sera convocado e nao estara presente na Assembleia para que nenhum associado se sinta intimidado pela sua presença).
  2. O mesmo tera os mesmos direitos de um Associado;
  3. O mesmo portara uma chave do Hackerspace e poderá mante-lo aberto no horario que lhe convir;
  4. O mesmo nao pode ficar com suas contribuicoes com atraso maior que 30 dias, caso positivo, seu acesso sera revogado.

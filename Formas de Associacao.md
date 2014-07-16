@@ -1,8 +1,13 @@
+Formas de Associacao ao Triangulo Hackerspace
+===================================
+
 ## Amigo do Triângulo
 Valor: 10 Reais
+
 Pessoa contribui, sem compromisso com o Hackerspace, apenas com intuito de ajudar o mesmo.
 
 ## Associado 
+
 Valor: 30 Reais
 Pessoa contribui mensalmente e recebe titulo de associado, tal titulo da direito de: 
 1. Descontos entre 50% a 100% do valor de um curso/serviço executado dentro e/ou com o nome do Hackerspace: (Exceto taxas referentes a cobertura de custos de hardwares como kits e/ou componentes, etc).

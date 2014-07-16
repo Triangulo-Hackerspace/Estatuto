@@ -1,4 +1,3 @@
-
 Formas de Associacao ao Triangulo Hackerspace
 ===================================
 
@@ -20,7 +19,7 @@ Pessoa contribui mensalmente e recebe titulo de associado, tal titulo da direito
 
 ## Key-Holder: 
 **Contribuicao Mensal: 100 Reais** 
- 1. Apenas para Associado que
+ 1. Apenas para Associado que: 
     1.1. for associado por no minimo 6 meses
     1.2. estiver com "boa conduta" nos últimos 3 meses consecutivos e com as Contribuições mensais em dia;
     1.3. receber votação positiva Unanime dos Associados presentes em Assembleia. (O mesmo nao estará presente na Assembleia para que nenhum associado se sinta intimidado pela sua presença).
